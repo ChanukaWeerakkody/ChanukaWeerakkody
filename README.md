@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanukaweerakkody" alt="chanukaweerakkody" /></a> </p>
-
 - 🔭 I’m currently working on [MobiCityPlaza](https://github.com/ChanukaWeerakkody/Mobicity-Plaza)
 
 - 🌱 I’m currently learning **Internet Technologies**
