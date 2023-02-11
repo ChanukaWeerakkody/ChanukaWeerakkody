@@ -1,5 +1,5 @@
-<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Internet Technologies**
