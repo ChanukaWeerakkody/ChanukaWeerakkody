@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanuka</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [MobiCityPlaza](https://github.com/ChanukaWeerakkody/Mobicity-Plaza)
-
 - 🌱 I’m currently learning **Internet Technologies**
 
 - 👨‍💻 All of my projects are available at [https://chanukaweerakkody.github.io/MyProfile/](https://chanukaweerakkody.github.io/MyProfile/)
