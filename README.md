@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p>
   
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="[/assets/programmer.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwiS7Om7kfiCAxXSSmwGHZdKC7QQMygDegQIARB3..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=programmer%20gif&ved=2ahUKEwiS7Om7kfiCAxXSSmwGHZdKC7QQMygDegQIARB3)" alt="Coding gif" />
   
  🔭 I’m currently student of Institute of Software Engineering (IJSE) <br/><br/>
  👯 I’m looking  for full stack developer role<br/><br/>
