@@ -31,6 +31,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChanukaWeerakkody&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<p align="center">
+  <a href="https://github.com/ChanukaWeerakkody">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanukaWeerakkody&theme=radical" alt="Chanuka Weerakkody's GitHub Contribution"/>
+  </a>
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChanukaWeerakkody&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -39,14 +45,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChanukaWeerakkody&icon=7&color=7)](https://visitcount.itsvg.in)
-
-
-<p align="center">
-  <a href="https://github.com/ChanukaWeerakkody">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanukaWeerakkody&theme=radical" alt="Chanuka Weerakkody's GitHub Contribution"/>
-  </a>
-</p>
-
 
 
 ![Chanuka Weerakkody's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChanukaWeerakkody&custom_title=Chanuka%20Weerakkody's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
