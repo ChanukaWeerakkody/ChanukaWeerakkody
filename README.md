@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently student of Institute of Software Engineering (IJSE)<br>👯 I’m looking  for full stack developer role<br>🌱 I’m currently learning FLUTTER, REACT NATIVE, REACT<br>💬 Ask me about JAVA, HTML, CSS, JS, REACT<br>
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 
 ## 🌐 Socials:
