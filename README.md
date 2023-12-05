@@ -1,6 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently student of Institute of Software Engineering (IJSE)<br>👯 I’m looking  for full stack developer role<br>🌱 I’m currently learning FLUTTER, REACT NATIVE, REACT<br>💬 Ask me about JAVA, HTML, CSS, JS, REACT<br>
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
+<p>
+  # 💫 About Me:
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ 🔭 I’m currently student of Institute of Software Engineering (IJSE) <br/><br/>
+ 👯 I’m looking  for full stack developer role<br/><br/>
+ 🌱 I’m currently learning FLUTTER, REACT NATIVE, REACT<br/><br/>
+ 💬 Ask me about JAVA, HTML, CSS, JS, REACT<br/><br/>
+ 📧 &emsp; Reach me anytime: chanuka.weerakkody123@gmail.com
+ 
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
 
 
 ## 🌐 Socials:
