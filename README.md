@@ -29,16 +29,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaWeerakkody&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChanukaWeerakkody&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ChanukaWeerakkody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <a href="https://github.com/ChanukaWeerakkody">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanukaWeerakkody&theme=radical" alt="Chanuka Weerakkody's GitHub Contribution"/>
-  </a>
-</p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChanukaWeerakkody&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChanukaWeerakkody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
