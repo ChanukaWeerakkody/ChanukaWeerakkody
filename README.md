@@ -42,6 +42,4 @@
 [![](https://visitcount.itsvg.in/api?id=ChanukaWeerakkody&icon=7&color=7)](https://visitcount.itsvg.in)
 
 
-![Chanuka Weerakkody's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChanukaWeerakkody&custom_title=Chanuka%20Weerakkody's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
